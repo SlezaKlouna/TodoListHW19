@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e73f0d08-71e4-455f-8b6a-0565f0155df0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../HW19/js/main.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/js/main.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../Lessons/Less19/main.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../Lessons/Less20/main.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1WqQaQ8w1a7572JeSz5pbRMsbTM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../Lessons/Less20/main.js" working-dir="$PROJECT_DIR$/../../Lessons/Less20">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e73f0d08-71e4-455f-8b6a-0565f0155df0" name="Default Changelist" comment="" />
+      <created>1579874707645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579874707645</updated>
+      <workItem from="1579874709217" duration="3765000" />
+      <workItem from="1579883557394" duration="3237000" />
+      <workItem from="1579893677934" duration="371000" />
+      <workItem from="1580049472362" duration="5153000" />
+      <workItem from="1580211435950" duration="8252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1579888284144">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1579888284144" />
+    <state width="1260" height="147" key="GridCell.Tab.0.bottom" timestamp="1579888319579">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1260" height="147" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1579888319579" />
+    <state width="1260" height="147" key="GridCell.Tab.0.center" timestamp="1579888319577">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1260" height="147" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1579888319577" />
+    <state width="1260" height="147" key="GridCell.Tab.0.left" timestamp="1579888319576">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1260" height="147" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1579888319576" />
+    <state width="1260" height="147" key="GridCell.Tab.0.right" timestamp="1579888319578">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1260" height="147" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1579888319578" />
+  </component>
+</project>
